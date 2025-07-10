@@ -22,4 +22,4 @@ Deployed using Netlify
 
 🙋‍♂️ Author
 **Jay Deshani**  
-[LinkedIn]((https://www.linkedin.com/in/jay-deshani-b61b0136a/)) | [GitHub](https://github.com/jaydeshani)
+[LinkedIn](https://www.linkedin.com/in/jay-deshani-b61b0136a/) | [GitHub](https://github.com/jaydeshani)
